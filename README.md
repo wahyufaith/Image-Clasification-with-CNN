@@ -1,4 +1,4 @@
-# Image-Clasification-with-CNN
+# Image-Classification-with-CNN
 
 ## about dataset :
 It consist sub folders with the name as all chessman such as rook, king, queen, etc and these folders contains all the images.
